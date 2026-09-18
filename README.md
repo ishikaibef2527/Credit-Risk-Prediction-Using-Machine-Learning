@@ -165,3 +165,12 @@ Positive coefficients push the model's prediction toward the default class, whil
 - NumPy
 - Scikit-learn
 - Imbalanced-learn
+
+# Project Structure
+```text
+Credit-Risk-Prediction-Using-Machine-Learning/
+│
+├── Credit_Risk_Prediction.ipynb
+├── README.md
+└── data/
+    └── README.md
